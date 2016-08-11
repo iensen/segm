@@ -33,7 +33,7 @@
 *.res
 ipch/
 obj/
-bin_1/
+src/bin_1/
 Ankh.NoLoad
 *.gpState
 .vscode/
