@@ -12,3 +12,5 @@ Segmentation:
 
 Size Distribution Estimation:
 ![sz](https://github.com/iensen/segm/blob/master/screenshots/scr3.png?raw=true)
+
+I do not plan to ever support this project, fix any bugs, or develop it further. I have done it at school while learning how to program, so the code is far from being perfect or readable ;) Hope someone finds it useful anyway. 
